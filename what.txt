@@ -1,0 +1,5 @@
+What if there was an smart-contract based lost and found office?
+
+Why Blockchaining this process, not only because we can, 
+but to take care about ownership and extended organising getting found items back to their owner,
+in case of seldom or rare goods, the rewarding for the finder can be handled more elegant.
